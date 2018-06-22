@@ -1,7 +1,7 @@
 {
-  "name": "Nortel Switch Helper",
-  "description": "Modernizes the web UI of a Nortel BES1020-48T-PWR switch.",
-  "version": "0.1.2",
+  "name": "Nortel BES 110 Switch Helper",
+  "description": "Modernizes the web UI of a Nortel BES110-24T switch.",
+  "version": "0.0.1",
   "permissions": [
     "tabs",
     "http://*/*"
@@ -19,7 +19,7 @@
       "19": "images/icon19.png",
       "38": "images/icon38.png"
     },
-    "default_title": "Nortel Switch Helper"
+    "default_title": "Nortel BES 110 Switch Helper"
   },
   "background": {
     "scripts": [

@@ -1,9 +1,9 @@
 {
-  "name": "nortel-menu",
+  "name": "nortel-bes110-menu",
   "authors": [
-    "Steven Mirabito <steven@stevenmirabito.com>"
+    "Adam Bradley <adam@ajdb.co.uk>"
   ],
-  "description": "Modern navigation menu for Nortel Business IP Switches",
+  "description": "Modern navigation menu for Nortel BES 110 Business IP Switches",
   "main": "menu.html",
   "moduleType": [],
   "license": "MIT",
